@@ -2,4 +2,4 @@
 
 Project for SME Proposition on Be Tech &amp; Business Challenge.
 
-License: <./LICENSE>.
+License: [LICENSE](./LICENSE).
