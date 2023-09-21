@@ -72,35 +72,35 @@ flutter:
   fonts:
     - family: Santander Headline
       fonts:
-        - asset: fonts/Santander Headline/SantanderHeadlineLight.ttf
+        - asset: fonts/SantanderHeadline/SantanderHeadlineLight.ttf
           weight: 300
-        - asset: fonts/Santander Headline/SantanderHeadlineLight-It.ttf
+        - asset: fonts/SantanderHeadline/SantanderHeadlineLight-It.ttf
           weight: 300
           style: italic
-        - asset: fonts/Santander Headline/SantanderHeadline-Regular.ttf
+        - asset: fonts/SantanderHeadline/SantanderHeadline-Regular.ttf
           weight: 400
-        - asset: fonts/Santander Headline/SantanderHeadline-It.ttf
+        - asset: fonts/SantanderHeadline/SantanderHeadline-It.ttf
           weight: 400
           style: italic
-        - asset: fonts/Santander Headline/SantanderHeadline-Bold.ttf
+        - asset: fonts/SantanderHeadline/SantanderHeadline-Bold.ttf
           weight: 700
-        - asset: fonts/Santander Headline/SantanderHeadline-BoldIt.ttf
+        - asset: fonts/SantanderHeadline/SantanderHeadline-BoldIt.ttf
           weight: 700
           style: italic
-    - family: Santander Microtext
+    - family: Santander MicroText
       fonts:
-        - asset: fonts/Santander Microtext/SantanderMicrotext-Lt.ttf
+        - asset: fonts/SantanderMicroText/SantanderMicroText-Lt.ttf
           weight: 300
-        - asset: fonts/Santander Microtext/SantanderMicrotext-LtIt.ttf
+        - asset: fonts/SantanderMicroText/SantanderMicroText-LtIt.ttf
           weight: 300
           style: italic
-        - asset: fonts/Santander Microtext/SantanderMicrotext.ttf
+        - asset: fonts/SantanderMicroText/SantanderMicroText.ttf
           weight: 400
-        - asset: fonts/Santander Microtext/SantanderMicrotext-It.ttf
+        - asset: fonts/SantanderMicroText/SantanderMicroText-It.ttf
           weight: 400
           style: italic
-        - asset: fonts/Santander Microtext/SantanderMicrotext-Bd.ttf
+        - asset: fonts/SantanderMicroText/SantanderMicroText-Bd.ttf
           weight: 700
-        - asset: fonts/Santander Microtext/SantanderMicrotext-BdIt.ttf
+        - asset: fonts/SantanderMicroText/SantanderMicroText-BdIt.ttf
           weight: 700
           style: italic
