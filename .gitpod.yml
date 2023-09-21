@@ -6,6 +6,16 @@ tasks:
     before: |
       flutter pub get
 
+  - name: Prebuild project for all enabled platforms
+    # It should make first debugging faster
+    # Since building is the step that takes longer
+    init: |
+      flutter build -v linux
+      flutter build -v web
+      flutter build -v bundle
+      flutter build -v appbundle
+      flutter build -v apk
+
 ports:
   - port: 5900
     onOpen: ignore
