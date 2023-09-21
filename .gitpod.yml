@@ -27,7 +27,9 @@ ports:
   - port: 8080
     onOpen: ignore
     name: Flutter Web
-    visibility: public
+  - port: 9100
+    onOpen: ignore
+    name: Dart Dev Tools
 
 vscode:
   extensions:
